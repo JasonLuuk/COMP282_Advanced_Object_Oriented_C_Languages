@@ -6,7 +6,7 @@
  <h3 align="center" backgroundcolor="red">⭐ If the code has helped you, please stars this, thank you very much!</h3>
  
  ## Must See Before Read My code
-There is no online OJ web site similar to COMP281 for this moudle.
+All codes are related to labs and assignments.
 
  ## Module Specification
 * Year: Session 2021-22
