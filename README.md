@@ -9,7 +9,7 @@
 * Operating System: Win11
 * Programming Languages: C++ and C#
 * IDE: Visual Studio 2019 Community Edition
-* All codes are related to labs and assignments,and all codes were uploaded after the assignment deadline
+* All codes are related to labs and assignments and all codes were uploaded after the assignment deadline
 
  ## Module Specification
 * Year: Session 2021-22
