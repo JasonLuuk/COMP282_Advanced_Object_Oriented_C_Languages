@@ -6,7 +6,7 @@
  <h3 align="center" backgroundcolor="red">⭐ If the code has helped you, please stars this, thank you very much!</h3>
  
  ## Must See Before Read My code
-All codes are related to labs and assignments.
+The languages used are C++ and C#. All codes are related to labs and assignments.
 
  ## Module Specification
 * Year: Session 2021-22
