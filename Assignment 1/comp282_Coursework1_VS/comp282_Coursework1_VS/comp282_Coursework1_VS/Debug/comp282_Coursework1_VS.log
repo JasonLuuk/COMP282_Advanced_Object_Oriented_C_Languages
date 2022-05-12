@@ -1,0 +1,8 @@
+﻿  menupart2.cpp
+  menupart3.cpp
+E:\OneDrive\Study in UK\Liverpool\COMP282 Advanced Object Oriented C Languages\Assignment 1\test\comp282_Coursework1_VS\comp282_Coursework1_VS\comp282_Coursework1_VS\menupart3.cpp(43,22): warning C4018: '<': signed/unsigned mismatch
+E:\OneDrive\Study in UK\Liverpool\COMP282 Advanced Object Oriented C Languages\Assignment 1\test\comp282_Coursework1_VS\comp282_Coursework1_VS\comp282_Coursework1_VS\menupart3.cpp(57,23): warning C4018: '<': signed/unsigned mismatch
+E:\OneDrive\Study in UK\Liverpool\COMP282 Advanced Object Oriented C Languages\Assignment 1\test\comp282_Coursework1_VS\comp282_Coursework1_VS\comp282_Coursework1_VS\menupart3.cpp(74,29): warning C4018: '>': signed/unsigned mismatch
+E:\OneDrive\Study in UK\Liverpool\COMP282 Advanced Object Oriented C Languages\Assignment 1\test\comp282_Coursework1_VS\comp282_Coursework1_VS\comp282_Coursework1_VS\menupart3.cpp(91,27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  comp282_Coursework1_VS.vcxproj -> E:\OneDrive\Study in UK\Liverpool\COMP282 Advanced Object Oriented C Languages\Assignment 1\test\comp282_Coursework1_VS\comp282_Coursework1_VS\Debug\comp282_Coursework1_VS.exe
