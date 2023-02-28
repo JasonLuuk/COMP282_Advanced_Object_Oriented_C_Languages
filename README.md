@@ -17,3 +17,7 @@
 * Year: Session 2021-22
 * Semester: Second Semester
 * Lectuer: Dr R Ibsen-Jensen
+
+ ## Module Results
+* Assignment 1: 90
+* Assignment 2: 100
