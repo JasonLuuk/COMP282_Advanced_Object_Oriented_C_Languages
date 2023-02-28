@@ -11,7 +11,9 @@
 * IDE: Visual Studio 2019 Community Edition
 * All codes are related to labs and assignments and all codes were uploaded after the assignment deadline, all personal information is taken from the University's public website.
 
+⚠️Please adhere to the University's Academic Integrity Policy and I accept no responsibility for suspected academic misconduct of any kind.⚠️
+
  ## Module Specification
 * Year: Session 2021-22
 * Semester: Second Semester
-* Lectuer: Dr R Ibsen-Jensen		R.Ibsen-Jensen@liverpool.ac.uk
+* Lectuer: Dr R Ibsen-Jensen
